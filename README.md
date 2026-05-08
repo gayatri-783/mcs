@@ -1,1 +1,1 @@
-# Maximum Cardinality Search implementation in C++
+Maximum Cardinality Search implementation in C++
